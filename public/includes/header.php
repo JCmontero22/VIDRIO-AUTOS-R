@@ -48,16 +48,14 @@
         </div>
 
         <div class="content-info">
-            <div class="info">
-                <div class="info__logo">
+            <div class="info-header">
+                <div class="info-header__logo">
                     <img src="../../assets/img/logo.png" alt="">
                 </div>
-                <div class="info__titulo">
+                <div class="info-header__titulo">
                     <h1>VIDRIO AUTOS R</h1>
-                    <h4>Reparación y cambio de vidrios, sin complicaciones.</h4>
+                    <h4>venta y cambio de vidrios, sin complicaciones.</h4>
                 </div>
             </div>
         </div>
     </header>
-
-    <main class="main">
