@@ -561,6 +561,12 @@ a:hover{
   }
 }
 
+@media screen and (max-height: 3410px){
+    .content-info{
+        margin: 8rem auto;
+    }
+  }
+
 @media screen and (max-width: 890px){
     .iten-icons{
         width: 8rem;
